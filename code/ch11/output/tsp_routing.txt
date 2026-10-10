@@ -1,0 +1,4 @@
+Blida -> Medea -> Chlef -> Relizane -> Mostaganem -> Mascara
+Tiaret -> Laghouat -> Djelfa -> Msila -> Bordj Bou Arreridj -> Setif
+Jijel -> Bejaia -> Tizi Ouzou -> Algiers -> Blida
+Total distance: 1754 km

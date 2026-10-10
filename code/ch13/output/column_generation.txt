@@ -1,0 +1,28 @@
+iteration  1: LP =  226.167 bars, best new pattern value = 1.500
+iteration  2: LP =  210.667 bars, best new pattern value = 1.333
+iteration  3: LP =  201.667 bars, best new pattern value = 1.167
+iteration  4: LP =  198.083 bars, best new pattern value = 1.167
+iteration  5: LP =  194.875 bars, best new pattern value = 1.167
+iteration  6: LP =  190.875 bars, best new pattern value = 1.062
+iteration  7: LP =  188.938 bars, best new pattern value = 1.042
+iteration  8: LP =  187.792 bars, best new pattern value = 1.042
+iteration  9: LP =  187.333 bars, best new pattern value = 1.028
+iteration 10: LP =  186.667 bars, best new pattern value = 1.024
+iteration 11: LP =  186.480 bars, best new pattern value = 1.020
+iteration 12: LP =  185.860 bars, best new pattern value = 1.020
+iteration 13: LP =  185.574 bars, best new pattern value = 1.023
+iteration 14: LP =  184.945 bars, best new pattern value = 1.023
+iteration 15: LP =  184.368 bars, best new pattern value = 1.029
+iteration 16: LP =  184.320 bars, best new pattern value = 1.000
+
+LP bound: 184.320, so at least 185 bars are needed
+Integer solution with 23 patterns: 185 bars
+    1 bar:  6x195                        waste  30 cm
+    1 bar:  1x330 + 2x410                waste  50 cm
+   28 bars: 1x195 + 2x290 + 1x410        waste  15 cm
+   22 bars: 1x195 + 3x330                waste  15 cm
+    5 bars: 1x485 + 1x690                waste  25 cm
+   55 bars: 1x290 + 1x410 + 1x485        waste  15 cm
+   44 bars: 2x195 + 1x245 + 1x560        waste   5 cm
+   26 bars: 2x245 + 1x690                waste  20 cm
+    3 bars: 3x290 + 1x330                waste   0 cm

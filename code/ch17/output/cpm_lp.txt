@@ -1,0 +1,18 @@
+Project duration: 74 working days
+Precedences with dual value 1 form the critical path:
+  A -> B -> C -> D -> F -> H -> L -> M -> O
+  A Site preparation         start day    0
+  B Excavation               start day    5
+  C Foundations              start day   11
+  D Ground-floor structure   start day   19
+  E Underground utilities    start day   11
+  F First-floor structure    start day   31
+  G Roof                     start day   43
+  H External walls           start day   43
+  I Plumbing rough-in        start day   31
+  J Electrical rough-in      start day   31
+  K Windows and doors        start day   53
+  L Interior plastering      start day   53
+  M Finishes and painting    start day   63
+  N Landscaping              start day   53
+  O Inspection and handover  start day   72

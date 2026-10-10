@@ -1,0 +1,6 @@
+portfolio           --- training (84 mo) ---    ---- test (36 mo) ----
+                      mean   CVaR95   worst       mean   CVaR95   worst
+Equal weights         0.77     4.92    -6.2       0.65     3.78    -4.2
+Min CVaR              0.54     2.30    -3.2       0.40     2.08    -2.2
+CVaR, target 0.8%     0.80     3.74    -5.1       0.50     3.18    -3.7
+99% of max return     1.09     6.84    -8.0       0.70     5.04    -6.3

@@ -1,0 +1,8 @@
+Cost today: $79.61M for $95M of liabilities
+  buy B1: face $  8.07M (price 99.2, coupon 2.5%, matures year 1)
+  buy B3: face $ 10.27M (price 100.4, coupon 4.5%, matures year 2)
+  buy B4: face $ 11.74M (price 97.1, coupon 3.5%, matures year 3)
+  buy B5: face $ 13.15M (price 101.5, coupon 5.5%, matures year 4)
+  buy B7: face $ 35.48M (price 103.0, coupon 6.0%, matures year 5)
+Implied value today of $1 paid in year t:
+  t=1: 0.968  t=2: 0.919  t=3: 0.874  t=4: 0.818  t=5: 0.769  t=6: 0.754

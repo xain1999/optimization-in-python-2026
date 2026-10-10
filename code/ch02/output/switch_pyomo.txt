@@ -1,0 +1,3 @@
+appsi_highs  profit = 4,100
+cbc          profit = 4,100
+glpk         not available - skipped

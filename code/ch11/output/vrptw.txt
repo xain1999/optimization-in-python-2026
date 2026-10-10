@@ -1,0 +1,34 @@
+Truck 1 (755 km, 4 t)
+   05:00  Blida
+   08:39  Djelfa
+   11:00  Laghouat
+   16:48  back at depot
+Truck 2 (94 km, 9 t)
+   05:00  Blida
+   06:00  Algiers
+   07:10  back at depot
+Truck 3 (536 km, 9 t)
+   05:00  Blida
+   07:00  Tizi Ouzou
+   09:12  Bordj Bou Arreridj
+   10:31  Msila
+   14:10  back at depot
+Truck 4 (731 km, 6 t)
+   06:01  Blida
+   10:00  Relizane
+   11:27  Mascara
+   13:00  Mostaganem
+   18:01  back at depot
+Truck 5 (718 km, 9 t)
+   05:00  Blida
+   08:38  Bejaia
+   10:14  Jijel
+   12:06  Setif
+   16:45  back at depot
+Truck 6 (518 km, 8 t)
+   05:00  Blida
+   06:00  Medea
+   10:00  Tiaret
+   12:05  Chlef
+   15:03  back at depot
+Trucks used: 6, total distance: 3352 km

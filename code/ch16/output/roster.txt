@@ -1,0 +1,17 @@
+Status: OPTIMAL  objective 15
+day      SSMTWTFSSMTWTF   shifts nights weekends
+Amel    *N.E-MMM.MMMM.E       10      1        3
+Bachir   N.MEEN-MMMM.M.       10      2        2
+Camelia *.MMN-MMM.M.NNN       10      4        3
+Djamila  .M.MMMM--EEEEE       10      0        2
+Fares   *ENN.EEN.EEN.M.       10      4        2
+Ghania   -.MMMM.MMMM.MM       10      0        2
+Hichem   EEENN.N.E-MMN.       10      4        2
+Imene    .N.MEE.MMM-N.E        9      2        2
+Karim   *ME.EN.EENN.ME-       10      3        3
+Lina     EEE.-E.E..EEEE        9      0        3
+Mourad   .MMEE..N.NN-MN        9      4        2
+Nadia   *MMMM-N.NN.EE.M       10      3        3
+Omar     E-.MMME.EE.MME       10      0        3
+Rania    MMN.M..MMMMM-M       10      1        3
+Day-off requests granted: 14 of 15; weekend shifts per nurse between 2 and 3

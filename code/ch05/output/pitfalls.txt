@@ -1,0 +1,6 @@
+1. solves: 4.0 3.0
+   export fails: Repeated constraint names: {('limit', 2)}
+2. TypeError: '<=' not supported between instances of 'LpAffineExpression' and 'numpy.int64'
+   fixed with int(): x + y <= 10
+3. constraints after 'x.value() <= 20': 1
+4. status without lowBound: Unbounded

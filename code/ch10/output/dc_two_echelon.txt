@@ -1,0 +1,11 @@
+Open: Blida, Chlef, Tlemcen, Setif, Batna
+Fixed $23,700 + delivery $35,170 = $58,870 per week
+  Blida        load  399.0 t   capacity 400
+  Chlef        load  286.0 t   capacity 300
+  Tlemcen      load  109.0 t   capacity 250
+  Setif        load  327.0 t   capacity 340
+  Batna        load  237.0 t   capacity 300
++ factory-to-centre transport $9,440 = total $68,310 per week
+  from Blida: {'Blida': 399, 'Chlef': 286, 'Tlemcen': 109}
+  from Setif: {'Setif': 327, 'Batna': 237}
+Single-echelon design, full cost: $70,365

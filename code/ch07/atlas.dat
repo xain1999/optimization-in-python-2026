@@ -1,0 +1,11 @@
+# Data for the abstract product-mix model (AMPL-style .dat format)
+set P := desk shelf ;
+set R := carpentry finishing ;
+
+param profit := desk 70  shelf 50 ;
+param cap    := carpentry 240  finishing 100 ;
+param maxdem := desk 1000  shelf 60 ;
+
+param use :      desk  shelf :=
+  carpentry        4     3
+  finishing        2     1 ;

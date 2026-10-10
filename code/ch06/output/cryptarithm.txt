@@ -1,0 +1,4 @@
+OPTIMAL
+  SEND =   9567
+  MORE =   1085
+ MONEY =  10652

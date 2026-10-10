@@ -1,0 +1,8 @@
+Hour 20:00, net demand 1500 MW
+  Steam     38 $/MWh   500.0 of 500 MW
+  CCGT1     42 $/MWh   400.0 of 400 MW
+  CCGT2     44 $/MWh   400.0 of 400 MW
+  OCGT1     85 $/MWh   150.0 of 150 MW
+  OCGT2     90 $/MWh    50.0 of 150 MW
+  Diesel   160 $/MWh     0.0 of 60 MW
+Cost $70,650/h, marginal price 90 $/MWh

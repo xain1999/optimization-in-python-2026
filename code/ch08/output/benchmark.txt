@@ -1,0 +1,10 @@
+fields  library            objective   build   solve   total   (seconds)
+   100  PuLP + HiGHS         851,225    0.04    0.87    0.91
+   100  OR-Tools + SCIP      851,225    0.05    0.59    0.64
+   100  Pyomo + HiGHS        851,225    0.02    0.93    0.95
+   400  PuLP + HiGHS       3,434,867    0.19    2.69    2.88
+   400  OR-Tools + SCIP    3,434,863    0.21    3.34    3.55
+   400  Pyomo + HiGHS      3,434,867    0.08    2.58    2.66
+  1600  PuLP + HiGHS      13,586,331    0.59   12.43   13.01
+  1600  OR-Tools + SCIP   13,585,248    0.94   11.66   12.59
+  1600  Pyomo + HiGHS     13,585,988    0.57   10.66   11.23

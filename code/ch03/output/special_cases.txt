@@ -1,0 +1,4 @@
+1. Infeasible          status: Infeasible
+2. Unbounded           status: Unbounded
+3. Alternative optima  status: Optimal
+                       x1=30, x2=40, z=5000

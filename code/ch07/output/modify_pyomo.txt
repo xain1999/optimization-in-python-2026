@@ -1,0 +1,4 @@
+base model                   desks= 30.0 shelves= 40.0 profit= 4,100
+desks fixed at 10            desks= 10.0 shelves= 60.0 profit= 3,700
+finishing deactivated        desks= 60.0 shelves=  0.0 profit= 4,200
+with contract desks >= 35    desks= 35.0 shelves= 30.0 profit= 3,950

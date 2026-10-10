@@ -1,0 +1,29 @@
+# Companion code for "Optimization in Python: PuLP, OR-Tools and Pyomo by Example"
+#
+# Requires Python 3.12 or newer (PuLP 4.0 needs 3.12); tested with Python 3.13.
+# Every package the examples import directly is pinned to the version tested
+# with the book. Their own dependencies are not pinned.
+#
+# Install with:  pip install -r requirements.txt
+
+# Core optimization packages
+pulp==4.0.0
+highspy==1.13.1        # must stay compatible with the HiGHS inside OR-Tools
+ortools==9.15.6755
+pyomo==6.10.1
+
+# Data, plots and spreadsheets
+numpy==2.5.3
+scipy==1.18.1          # linear_sum_assignment (Chapter 9)
+pandas==3.0.5
+matplotlib==3.11.2
+openpyxl==3.1.5        # Excel files (Chapter 20)
+
+# Optional extra solvers (Chapter 2). The examples run without them.
+cbcbox==2.935          # CBC for PuLP. Also installs a `cbc` command in the
+                       # environment's bin/ (Scripts\ on Windows) folder, which
+                       # Pyomo finds only while the environment is activated.
+swiglpk==5.0.13        # GLPK for PuLP
+
+# Not needed by the examples; install it yourself if you like notebooks:
+#   pip install jupyterlab

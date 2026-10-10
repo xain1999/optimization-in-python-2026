@@ -1,0 +1,7 @@
+Selected (10): Desal_B, Dam_repair, Pipeline_N, Pumping_N, Leak_prog, Meters
+              Treatment, Reuse, Solar_pump, SCADA
+Total NPV: $204M
+  Year 1: spend  49.0  budget  60  carried forward 11.00
+  Year 2: spend  75.0  budget  70  carried forward  6.33
+  Year 3: spend  60.0  budget  55  carried forward  1.52
+  Year 4: spend  28.0  budget  30  carried forward  3.57

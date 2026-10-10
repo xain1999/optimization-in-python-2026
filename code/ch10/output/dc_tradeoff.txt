@@ -1,0 +1,9 @@
+open  uncapacitated  capacitated
+   1         87,640   infeasible
+   2         63,332   infeasible
+   3         55,506   infeasible
+   4         54,204       59,189
+   5         55,286       56,243
+   6         56,752       56,752
+   7         59,077       59,077
+   8         61,694       61,694

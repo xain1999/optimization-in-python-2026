@@ -1,0 +1,4 @@
+Profit: 31,587
+Shadow prices of plant hours: {'Algiers': 8.57, 'Oran': 9.49, 'Annaba': 10.94}
+Demand rows at a bound: {'crisps': 2.29, 'pretzels': 3.25, 'popcorn': 2.36, 'crackers': 0.56}
+Constraints: 8, variables: 12

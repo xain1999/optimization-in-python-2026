@@ -1,0 +1,2 @@
+Selected: spray_booth, cnc_router, second_shift
+NPV = $530k,  investment = $350k

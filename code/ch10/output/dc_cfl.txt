@@ -1,0 +1,18 @@
+--- Capacitated, demand may be split ---
+Open: Blida, Oran, Setif, Batna, Ghardaia
+Fixed $24,800 + delivery $30,792 = $55,592 per week
+  Blida        load  400.0 t   capacity 400
+  Oran         load  320.0 t   capacity 320
+  Setif        load  331.0 t   capacity 340
+  Batna        load  238.0 t   capacity 300
+  Ghardaia     load   69.0 t   capacity 200
+Cities supplied by two centres: Tiaret, Tizi Ouzou
+
+--- Capacitated, single sourcing ---
+Open: Blida, Oran, Setif, Batna, Ghardaia
+Fixed $24,800 + delivery $31,443 = $56,243 per week
+  Blida        load  354.0 t   capacity 400
+  Oran         load  302.0 t   capacity 320
+  Setif        load  337.0 t   capacity 340
+  Batna        load  238.0 t   capacity 300
+  Ghardaia     load  127.0 t   capacity 200

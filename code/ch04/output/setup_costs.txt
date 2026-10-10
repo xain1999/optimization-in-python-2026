@@ -1,0 +1,6 @@
+Status: Optimal
+  desk   run=1  make=   49
+  shelf  run=1  make=   58
+  table  run=1  make=    5
+  chair  run=0  make=    0
+Net profit: 5,830

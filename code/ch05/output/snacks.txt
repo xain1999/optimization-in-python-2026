@@ -1,0 +1,18 @@
+Status: Optimal
+          Algiers   Oran  Annaba
+crisps      900.0    0.0     0.0
+nachos      145.9    0.0     0.0
+pretzels      0.0    0.0   500.0
+popcorn     142.9  657.1     0.0
+crackers      0.0  400.0   300.0
+Profit: 31,587
+
+               slack  shadow_price
+constraint                        
+hours_Algiers    0.0          8.57
+hours_Oran       0.0          9.49
+hours_Annaba     0.0         10.94
+max_crisps       0.0          2.29
+max_pretzels     0.0          3.25
+max_popcorn      0.0          2.36
+max_crackers     0.0          0.56

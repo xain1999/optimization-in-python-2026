@@ -1,0 +1,7 @@
+Constraint       slack   dual (pi)
+Carpentry          0.0      -15.00
+Finishing          0.0       -5.00
+Shelf_demand      20.0        0.00
+Variable         value  reduced cost
+desks             30.0          0.00
+shelves           40.0          0.00

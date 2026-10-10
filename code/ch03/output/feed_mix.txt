@@ -1,0 +1,15 @@
+Status: Optimal
+  corn          623.3 kg   reduced cost  0.0000
+  soymeal       294.2 kg   reduced cost  0.0000
+  fishmeal        0.0 kg   reduced cost  0.3520
+  bran           57.3 kg   reduced cost  0.0000
+  oil             1.9 kg   reduced cost  0.0000
+  limestone      23.4 kg   reduced cost  0.0000
+Cost per batch: $341.58
+Constraint            slack     dual
+  Batch_size            0.00   -0.0733
+  min_protein           0.00    0.8631
+  min_fat               0.00    0.6775
+  min_calcium           0.00    0.3509
+  max_fibre            13.58    0.0000
+  min_energy            0.00    0.0742

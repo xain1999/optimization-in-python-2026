@@ -1,0 +1,13 @@
+Net revenue: $105,920
+  F01: chickpea
+  F02: chickpea
+  F03: potato
+  F04: wheat
+  F05: chickpea
+  F06: potato
+  F07: wheat
+  F08: olive
+  F09: tomato
+  F10: wheat
+  F11: olive
+  F12: wheat

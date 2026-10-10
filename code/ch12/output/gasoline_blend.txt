@@ -1,0 +1,6 @@
+premium   3,674 m3   octane 95.0   RVP 9.0
+         reformate 55%, FCC_naphtha 37%, butane 9%
+regular   4,124 m3   octane 91.0   RVP 10.0
+         reformate 14%, FCC_naphtha 45%, isomerate 36%, butane 4%
+Daily margin: $1,173,353
+Unused: {'reformate': 0, 'FCC_naphtha': 0, 'isomerate': 0, 'butane': 403}

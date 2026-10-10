@@ -1,0 +1,5 @@
+carpentry  dual =  15.00
+finishing  dual =   5.00
+demand     dual =   0.00
+desks      reduced cost =   0.00
+shelves    reduced cost =   0.00

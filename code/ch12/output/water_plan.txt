@@ -1,0 +1,14 @@
+month  demand  regular overtime  stock backlog
+Jan       420      560        0    240       0
+Feb       400      600        0    440       0
+Mar       460      600        0    580       0
+Apr       520      600        0    660       0
+May       640      600        0    620       0
+Jun       820      600        0    400       0
+Jul       960      600      150    190       0
+Aug       940      600      150      0       0
+Sep       700      600      100      0       0
+Oct       540      540        0      0       0
+Nov       450      450        0      0       0
+Dec       430      530        0    100       0
+Total cost: $15,364,500

@@ -1,0 +1,5 @@
+Truck 1:  692 km  Bejaia - Setif - Bordj Bou Arreridj - Msila
+Truck 2:  612 km  Medea - Tiaret - Relizane - Chlef
+Truck 3:  692 km  Tizi Ouzou - Djelfa
+Truck 4:   94 km  Algiers
+Postponed: Mostaganem, Laghouat, Jijel, Mascara (7 t)

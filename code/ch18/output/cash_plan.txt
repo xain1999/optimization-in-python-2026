@@ -1,0 +1,8 @@
+month  net flow    line   paper  deposit  value of $1
+Jan        -150     0.0   150.0      0.0       1.0373
+Feb        -100     0.0   100.0      0.0       1.0302
+Mar         200     0.0   151.9    351.9       1.0200
+Apr        -200     0.0     0.0      0.0       1.0169
+May          50    52.0     0.0      0.0       1.0100
+Jun         300     0.0     0.0     92.5       1.0000
+Cash at the end of June: $92.50k

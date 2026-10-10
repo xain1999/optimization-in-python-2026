@@ -1,0 +1,6 @@
+Status: Optimal
+  desk     50.0
+  shelf    60.0
+  table     0.0
+  chair    15.0
+Total profit: 6,860.00

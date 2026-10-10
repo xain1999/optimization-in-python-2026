@@ -1,0 +1,16 @@
+Status: OPTIMAL, duration 80 working days
+  A Site preparation         days   0-5  
+  B Excavation               days   5-11 
+  C Foundations              days  11-19   masons 4
+  D Ground-floor structure   days  19-31   masons 5
+  F First-floor structure    days  31-43   masons 5
+  E Underground utilities    days  43-49   masons 2
+  G Roof                     days  43-50 
+  J Electrical rough-in      days  44-53 
+  H External walls           days  49-59   masons 4
+  I Plumbing rough-in        days  49-57 
+  K Windows and doors        days  59-64 
+  L Interior plastering      days  59-69   masons 4
+  M Finishes and painting    days  69-78 
+  N Landscaping              days  69-75   masons 2
+  O Inspection and handover  days  78-80 

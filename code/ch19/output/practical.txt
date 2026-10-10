@@ -1,0 +1,6 @@
+LP (no extra rules): CVaR95 3.75%, 5 assets
+   Consumer 9%, Health 30%, Industry 30%, Tech 9%, GovBonds 21%
+   one-way turnover from current portfolio: 51%
+with practical rules: CVaR95 3.78%, 6 assets
+   Banks 5%, Consumer 11%, Health 27%, Industry 24%, Tech 10%, GovBonds 23%
+   one-way turnover from current portfolio: 45%

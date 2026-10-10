@@ -1,0 +1,9 @@
+Feasible: False
+
+1. Elastic model - smallest total violation needed:
+   demand[nachos]         violated by    28.6
+
+2. Deletion filter - a minimal conflicting set:
+   capacity[Algiers]
+   capacity[Oran]
+   demand[nachos]

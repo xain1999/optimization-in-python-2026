@@ -1,0 +1,7 @@
+LP relaxation:        $1,131,166
+Unit commitment MILP: $1,148,765
+Marginal price ($/MWh) by hour:
+  00h   42  01h   42  02h   42  03h   42  04h   42  05h   42
+  06h   42  07h   42  08h   42  09h   42  10h   42  11h   42
+  12h   42  13h   42  14h   42  15h   42  16h   44  17h   44
+  18h   85  19h   85  20h   90  21h   85  22h   46  23h   42

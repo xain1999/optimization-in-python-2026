@@ -1,0 +1,15 @@
+Total cost: $301,552
+         Chlef -> Tlemcen         100 t
+         Chlef -> Tiaret          500 t
+         Chlef -> T-Blida         900 t
+         Chlef -> T-Mostaganem   1500 t
+         Batna -> Constantine     700 t
+         Batna -> Djelfa          400 t
+         Batna -> T-Blida         600 t
+         Batna -> T-Setif         700 t
+        Skikda -> Constantine     200 t
+        Skikda -> Annaba          600 t
+       T-Blida -> Algiers        1500 t
+       T-Setif -> Setif           700 t
+  T-Mostaganem -> Oran           1100 t
+  T-Mostaganem -> Tlemcen         400 t

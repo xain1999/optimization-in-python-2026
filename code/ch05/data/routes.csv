@@ -1,0 +1,13 @@
+product,plant,hours_per_carton,cost_per_carton
+crisps,Algiers,0.9,14.0
+crisps,Oran,1.0,13.0
+crisps,Annaba,1.1,15.5
+nachos,Algiers,1.4,18.0
+nachos,Oran,1.2,19.5
+pretzels,Algiers,1.0,16.0
+pretzels,Annaba,0.8,15.0
+popcorn,Algiers,0.6,12.5
+popcorn,Oran,0.7,11.0
+popcorn,Annaba,0.6,13.0
+crackers,Oran,1.1,15.0
+crackers,Annaba,1.0,14.5

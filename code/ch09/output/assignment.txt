@@ -1,0 +1,9 @@
+LP:       37 hours, fractional values: 0
+OR-Tools: 37 hours
+SciPy:    37 hours
+  Amina   -> J2  (6 h)
+  Bilal   -> J4  (6 h)
+  Chahra  -> J5  (6 h)
+  Djamel  -> J1  (6 h)
+  Elyes   -> J3  (7 h)
+  Farah   -> J6  (6 h)

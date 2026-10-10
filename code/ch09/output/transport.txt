@@ -1,0 +1,11 @@
+Status: Optimal
+        Algiers  Oran  Constantine  Setif  Tlemcen  Djelfa  Annaba  Tiaret
+Chlef       900  1100            0      0      500       0       0     500
+Batna       600     0          700    700        0     400       0       0
+Skikda        0     0          200      0        0       0     600       0
+Total cost: $308,170
+Plant use: {'Chlef': '3000/3000', 'Batna': '2400/2400', 'Skikda': '800/1800'}
+Marginal delivered cost per tonne ($):
+  Algiers      61.46  Oran         62.66  Constantine  45.68
+  Setif        45.62  Tlemcen      69.80  Djelfa       59.48
+  Annaba       46.76  Tiaret       55.52

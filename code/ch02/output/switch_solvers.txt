@@ -1,0 +1,3 @@
+HiGHS  Optimal  profit = 4,100  time = 0.001s
+CBC    Optimal  profit = 4,100  time = 0.010s
+GLPK   Optimal  profit = 4,100  time = 0.000s

@@ -1,0 +1,2 @@
+LP (no binaries): tiers = [0, 0, 650], cost = $1,950
+with binaries   : tiers = [300, 300, 50], cost = $2,850

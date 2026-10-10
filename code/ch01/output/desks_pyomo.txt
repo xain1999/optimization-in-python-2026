@@ -1,0 +1,4 @@
+Status:  optimal
+Desks:   30.0
+Shelves: 40.0
+Profit:  4,100

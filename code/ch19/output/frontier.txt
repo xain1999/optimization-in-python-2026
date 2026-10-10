@@ -1,0 +1,11 @@
+target %/mo  CVaR95    MAD  stdev   largest holdings (min-CVaR)
+       0.48    2.19   1.12   1.44   GovBonds 30%, Utilities 22%, Health 21%
+       0.54    2.33   1.19   1.52   GovBonds 30%, Health 22%, Utilities 16%
+       0.60    2.51   1.29   1.63   GovBonds 30%, Health 25%, Industry 14%
+       0.66    2.69   1.42   1.77   GovBonds 30%, Health 29%, Industry 16%
+       0.72    2.97   1.59   1.99   Health 30%, GovBonds 30%, Consumer 22%
+       0.78    3.54   1.82   2.28   Health 30%, Industry 29%, GovBonds 24%
+       0.84    4.16   2.08   2.58   Industry 30%, Health 30%, GovBonds 17%
+       0.90    4.78   2.35   2.91   Industry 30%, Health 30%, Tech 19%
+       0.96    5.44   2.63   3.22   Industry 30%, Health 30%, Consumer 21%
+       1.02    6.34   2.96   3.71   Industry 30%, Consumer 30%, Tech 20%

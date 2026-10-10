@@ -1,0 +1,7 @@
+desk     30.0
+shelf    40.0
+Profit: 4,100
+capacity : Size=2, Index=R, Active=True
+    Key       : Lower : Body                   : Upper : Active
+    carpentry :  -Inf : 4*x[desk] + 3*x[shelf] : 240.0 :   True
+    finishing :  -Inf :   2*x[desk] + x[shelf] : 100.0 :   True

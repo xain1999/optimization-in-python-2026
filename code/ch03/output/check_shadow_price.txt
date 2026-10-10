@@ -1,0 +1,5 @@
+241 hours: profit   4,115  gain    15  per extra hour 15.00
+250 hours: profit   4,250  gain   150  per extra hour 15.00
+260 hours: profit   4,400  gain   300  per extra hour 15.00
+270 hours: profit   4,400  gain   300  per extra hour 10.00
+300 hours: profit   4,400  gain   300  per extra hour  5.00

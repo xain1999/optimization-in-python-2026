@@ -1,0 +1,18 @@
+   0.04 s   student-days with two exams: 424
+   0.07 s   student-days with two exams: 411
+   0.08 s   student-days with two exams: 407
+   0.10 s   student-days with two exams: 403
+   0.10 s   student-days with two exams: 399
+   0.10 s   student-days with two exams: 391
+   0.10 s   student-days with two exams: 384
+   0.12 s   student-days with two exams: 378
+   0.16 s   student-days with two exams: 369
+Status: OPTIMAL
+Day 1 am: OR, NumMethods                               218 seats
+Day 1 pm: Statistics                                   145 seats
+Day 2 am: Analysis, Algorithms, GameTheory             229 seats
+Day 2 pm: Optimization, Topology                       145 seats
+Day 3 am: Stochastic, DiscreteMath                     221 seats
+Day 3 pm: Probability, Programming                     225 seats
+Day 4 am: Graphs                                       224 seats
+Day 4 pm: LinAlg, Databases, Simulation                210 seats

@@ -1,0 +1,6 @@
+Status: OPTIMAL
+  T1: P05 P08 P10       1500 kg
+  T2: P01 P06 P09 P11   1490 kg
+  T3: P03 P04 P13       1190 kg
+Value shipped: $8,720
+Solve time: 1.65 s, nodes: 1352

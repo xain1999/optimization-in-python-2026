@@ -1,0 +1,1 @@
+Re-loaded model: {'desks': 30.0, 'shelves': 40.0} profit = 4100.0

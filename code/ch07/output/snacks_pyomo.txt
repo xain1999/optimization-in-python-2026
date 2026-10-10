@@ -1,0 +1,8 @@
+          Algiers   Oran  Annaba
+crisps      900.0    0.0     0.0
+nachos      145.9    0.0     0.0
+pretzels      0.0    0.0   500.0
+popcorn     142.9  657.1     0.0
+crackers      0.0  400.0   300.0
+Profit: 31,587
+Capacity duals: {'Algiers': 8.57, 'Oran': 9.49, 'Annaba': 10.94}

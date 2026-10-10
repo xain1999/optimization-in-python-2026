@@ -1,0 +1,7 @@
+Status: Optimal
+week      1     2     3     4     5     6     7     8
+orange    30    67     .    58     .    85     .    42
+apple     38     .    47     .    38     .    46     .
+mango     22     .    49     .     .     .    38     .
+hours     58    37    60    33    20    47    52    25
+Setups: 12, total cost: $14,711

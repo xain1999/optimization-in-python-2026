@@ -1,0 +1,6 @@
+Open: Blida, Oran, Setif, Ghardaia
+Fixed $20,300 + delivery $33,904 = $54,204 per week
+  Blida        load  426.0 t   capacity 400
+  Oran         load  345.0 t   capacity 320
+  Setif        load  485.0 t   capacity 340
+  Ghardaia     load  102.0 t   capacity 200

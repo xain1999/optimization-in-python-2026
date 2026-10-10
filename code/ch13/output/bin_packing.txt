@@ -1,0 +1,3 @@
+60 jobs, 8727 minutes in total; lower bound 19 shifts
+First-fit decreasing: 21 shifts (0.000 s)
+CP-SAT: 19 shifts, OPTIMAL (1.1 s)

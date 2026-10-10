@@ -1,0 +1,2 @@
+Material lower bound: 183 bars
+Naive model after 60 s: TimeLimit, 187 bars

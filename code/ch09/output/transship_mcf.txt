@@ -1,0 +1,2 @@
+Total cost: $301,552
+Arcs carrying flow: 15 (including unused capacity)

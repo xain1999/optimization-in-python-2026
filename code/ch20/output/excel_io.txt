@@ -1,0 +1,10 @@
+Wrote snacks_results.xlsx with sheets: ['Summary', 'Plan', 'Plants']
+                 value
+status         Optimal
+profit ($)    31586.73
+cartons made    3045.9
+         hours used  available  utilization
+plant                                      
+Algiers      1100.0       1100          1.0
+Annaba        700.0        700          1.0
+Oran          900.0        900          1.0

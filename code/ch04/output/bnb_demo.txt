@@ -1,0 +1,10 @@
+node 0      x1=1.857 x2=0.000 z=39.00  branch on x1
+node 0L     x1=1.000 x2=1.500 z=37.50  branch on x2
+node 0LL    x1=1.000 x2=1.000 z=32.00  integer -> new incumbent
+node 0LR    x1=0.714 x2=2.000 z=37.00  branch on x1
+node 0LRL   x1=0.000 x2=3.250 z=35.75  branch on x2
+node 0LRLL  x1=0.000 x2=3.000 z=33.00  integer -> new incumbent
+node 0LRLR  infeasible -> prune
+node 0LRR   infeasible -> prune
+node 0R     infeasible -> prune
+Optimal: x1=0, x2=3, z=33

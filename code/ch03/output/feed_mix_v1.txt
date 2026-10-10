@@ -1,0 +1,8 @@
+Status: Optimal
+  corn            0.0 kg   reduced cost  0.0930
+  soymeal       348.6 kg   reduced cost  0.0000
+  fishmeal        0.0 kg   reduced cost  0.2892
+  bran          264.4 kg   reduced cost  0.0000
+  oil            17.6 kg   reduced cost  0.0000
+  limestone     369.4 kg   reduced cost  0.0000
+Cost per batch: $273.04

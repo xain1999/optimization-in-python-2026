@@ -1,0 +1,4 @@
+GLOP   profit = 4,100.00
+PDLP   profit = 4,100.00
+SCIP   profit = 4,100.00
+CBC    profit = 4,100.00

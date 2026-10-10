@@ -1,0 +1,5 @@
+   n     MILP     status   time  routing  time
+  15    3,289    Optimal    4.0    3,289   5.0
+  30    4,807    Optimal    1.2    4,807   5.0
+  60    6,917  TimeLimit   60.3    6,292   5.0
+ 100    8,299  TimeLimit   60.9    8,029   5.0
